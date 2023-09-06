@@ -7,7 +7,8 @@ A Virtual Network Project involves the design, deployment, and management of a n
 
 <h2>Environments Used </h2>
 - <b>Cisco packet</b> 
-- <b>Mac ios</b> 
+
+- <b>Mac ios</b>  
 
 <h2>Program walk-through:</h2>
 This is just a warning for the viewers. This is not a step-by-step on how to build a Virtual Network. These screenshots are to add more in-depth to the project and to show viewers my progress.
